@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\06. Traffic Jam\bin\Debug\_06.Traffic_Jam.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\06. Traffic Jam\bin\Debug\_06.Traffic_Jam.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\06. Traffic Jam\bin\Debug\_06.Traffic_Jam.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\06. Traffic Jam\obj\Debug\06. Traffic Jam.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\06. Traffic Jam\obj\Debug\_06.Traffic_Jam.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\06. Traffic Jam\obj\Debug\_06.Traffic_Jam.pdb

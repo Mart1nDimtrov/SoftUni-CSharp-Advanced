@@ -1,0 +1,5 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\Lab - Stacks and Queues\bin\Debug\Lab - Stacks and Queues.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\Lab - Stacks and Queues\bin\Debug\Lab - Stacks and Queues.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\Lab - Stacks and Queues\bin\Debug\Lab - Stacks and Queues.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\Lab - Stacks and Queues\obj\Debug\Lab - Stacks and Queues.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\Lab - Stacks and Queues\obj\Debug\Lab - Stacks and Queues.pdb

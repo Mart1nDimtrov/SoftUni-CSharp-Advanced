@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\3. Maximum Element\bin\Debug\_3.Maximum_Element.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\3. Maximum Element\bin\Debug\_3.Maximum_Element.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\3. Maximum Element\bin\Debug\_3.Maximum_Element.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\3. Maximum Element\obj\Debug\3. Maximum Element.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\3. Maximum Element\obj\Debug\_3.Maximum_Element.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\3. Maximum Element\obj\Debug\_3.Maximum_Element.pdb

@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\5. Hot Potato\bin\Debug\_5.Hot_Potato.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\5. Hot Potato\bin\Debug\_5.Hot_Potato.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\5. Hot Potato\bin\Debug\_5.Hot_Potato.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\5. Hot Potato\obj\Debug\5. Hot Potato.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\5. Hot Potato\obj\Debug\_5.Hot_Potato.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\5. Hot Potato\obj\Debug\_5.Hot_Potato.pdb

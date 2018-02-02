@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\2. Simple Calculator\obj\Debug\_2.Simple_Calculator.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\2. Simple Calculator\obj\Debug\_2.Simple_Calculator.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\2. Simple Calculator\obj\Debug\2. Simple Calculator.csprojResolveAssemblyReference.cache

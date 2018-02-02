@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\4. Matching Brackets\obj\Debug\4. Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Stacks and Queues\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.pdb
