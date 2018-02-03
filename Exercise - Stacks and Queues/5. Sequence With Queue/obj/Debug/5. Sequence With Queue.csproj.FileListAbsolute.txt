@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\5. Sequence With Queue\bin\Debug\_5.Sequence_With_Queue.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\5. Sequence With Queue\bin\Debug\_5.Sequence_With_Queue.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\5. Sequence With Queue\bin\Debug\_5.Sequence_With_Queue.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\5. Sequence With Queue\obj\Debug\5. Sequence With Queue.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\5. Sequence With Queue\obj\Debug\_5.Sequence_With_Queue.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\5. Sequence With Queue\obj\Debug\_5.Sequence_With_Queue.pdb

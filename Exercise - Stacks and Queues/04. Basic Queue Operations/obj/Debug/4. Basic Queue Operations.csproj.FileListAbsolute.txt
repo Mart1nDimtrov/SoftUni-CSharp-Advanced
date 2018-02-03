@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe.config

@@ -3,3 +3,6 @@ C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks 
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\2. Basic Stack Operations\bin\Debug\_2.Basic_Stack_Operations.pdb
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\2. Basic Stack Operations\obj\Debug\_2.Basic_Stack_Operations.exe
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\2. Basic Stack Operations\obj\Debug\_2.Basic_Stack_Operations.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\2. Basic Stack Operations\bin\Debug\_2.Basic_Stack_Operations.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\2. Basic Stack Operations\obj\Debug\_2.Basic_Stack_Operations.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\2. Basic Stack Operations\obj\Debug\_2.Basic_Stack_Operations.pdb

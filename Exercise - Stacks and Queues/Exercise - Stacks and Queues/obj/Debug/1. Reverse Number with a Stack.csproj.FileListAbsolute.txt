@@ -4,3 +4,6 @@ C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks 
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\Exercise - Stacks and Queues\obj\Debug\1. Reverse Number with a Stack.csprojResolveAssemblyReference.cache
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\Exercise - Stacks and Queues\obj\Debug\Exercise - Stacks and Queues.exe
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Stacks and Queues\Exercise - Stacks and Queues\obj\Debug\Exercise - Stacks and Queues.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\Exercise - Stacks and Queues\bin\Debug\Exercise - Stacks and Queues.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\Exercise - Stacks and Queues\obj\Debug\Exercise - Stacks and Queues.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\Exercise - Stacks and Queues\obj\Debug\Exercise - Stacks and Queues.pdb

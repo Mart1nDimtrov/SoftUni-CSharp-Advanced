@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\7. Balanced Parentheses\bin\Debug\_7.Balanced_Parentheses.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\7. Balanced Parentheses\bin\Debug\_7.Balanced_Parentheses.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\7. Balanced Parentheses\bin\Debug\_7.Balanced_Parentheses.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\7. Balanced Parentheses\obj\Debug\7. Balanced Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\7. Balanced Parentheses\obj\Debug\_7.Balanced_Parentheses.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\7. Balanced Parentheses\obj\Debug\_7.Balanced_Parentheses.pdb

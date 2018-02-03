@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\8. Recursive Fibonacci\bin\Debug\_8.Recursive_Fibonacci.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\8. Recursive Fibonacci\obj\Debug\8. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\8. Recursive Fibonacci\obj\Debug\_8.Recursive_Fibonacci.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Stacks and Queues\8. Recursive Fibonacci\obj\Debug\_8.Recursive_Fibonacci.pdb
