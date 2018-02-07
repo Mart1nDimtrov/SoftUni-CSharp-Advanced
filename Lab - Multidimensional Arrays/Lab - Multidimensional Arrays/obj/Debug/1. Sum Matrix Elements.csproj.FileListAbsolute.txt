@@ -1,1 +1,2 @@
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Multidimensional Arrays\Lab - Multidimensional Arrays\bin\Debug\Lab - Multidimensional Arrays.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\Lab - Multidimensional Arrays\bin\Debug\Lab - Multidimensional Arrays.exe.config

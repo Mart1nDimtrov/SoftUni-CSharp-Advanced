@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\4. Pascal Triangle\obj\Debug\4. Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\4. Pascal Triangle\obj\Debug\_4.Pascal_Triangle.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\4. Pascal Triangle\obj\Debug\_4.Pascal_Triangle.pdb

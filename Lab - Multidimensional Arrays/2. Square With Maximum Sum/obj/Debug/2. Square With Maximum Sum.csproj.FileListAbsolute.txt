@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\2. Square With Maximum Sum.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\_2.Square_With_Maximum_Sum.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\_2.Square_With_Maximum_Sum.pdb
