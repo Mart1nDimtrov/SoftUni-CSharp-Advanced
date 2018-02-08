@@ -1,0 +1,5 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidimensional Arrays\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidimensional Arrays\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidimensional Arrays\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidimensional Arrays\2. Diagonal Difference\obj\Debug\_2.Diagonal_Difference.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidimensional Arrays\2. Diagonal Difference\obj\Debug\_2.Diagonal_Difference.pdb
