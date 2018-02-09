@@ -4,3 +4,6 @@ C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidi
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidimensional Arrays\Exercise - Multidimensional Arrays\obj\Debug\1. Matrix of Palindromes.csprojResolveAssemblyReference.cache
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidimensional Arrays\Exercise - Multidimensional Arrays\obj\Debug\Exercise - Multidimensional Arrays.exe
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Exercise - Multidimensional Arrays\Exercise - Multidimensional Arrays\obj\Debug\Exercise - Multidimensional Arrays.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\Exercise - Multidimensional Arrays\bin\Debug\Exercise - Multidimensional Arrays.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\Exercise - Multidimensional Arrays\obj\Debug\Exercise - Multidimensional Arrays.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\Exercise - Multidimensional Arrays\obj\Debug\Exercise - Multidimensional Arrays.pdb

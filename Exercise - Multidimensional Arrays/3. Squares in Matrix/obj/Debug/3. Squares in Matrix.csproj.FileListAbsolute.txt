@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\3. Squares in Matrix\obj\Debug\3. Squares in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\3. Squares in Matrix\obj\Debug\_3.Squares_in_Matrix.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Multidimensional Arrays\3. Squares in Matrix\obj\Debug\_3.Squares_in_Matrix.pdb
