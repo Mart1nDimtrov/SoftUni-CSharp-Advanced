@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\02. Average Student Grades\bin\Debug\_02.Average_Student_Grades.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\02. Average Student Grades\bin\Debug\_02.Average_Student_Grades.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\02. Average Student Grades\bin\Debug\_02.Average_Student_Grades.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\02. Average Student Grades\obj\Debug\2. Average Student Grades.cs.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\02. Average Student Grades\obj\Debug\_02.Average_Student_Grades.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\02. Average Student Grades\obj\Debug\_02.Average_Student_Grades.pdb

@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\3. Cities by Continent and Country\bin\Debug\_3.Cities_by_Continent_and_Country.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\3. Cities by Continent and Country\bin\Debug\_3.Cities_by_Continent_and_Country.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\3. Cities by Continent and Country\bin\Debug\_3.Cities_by_Continent_and_Country.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\3. Cities by Continent and Country\obj\Debug\3. Cities by Continent and Country.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\3. Cities by Continent and Country\obj\Debug\_3.Cities_by_Continent_and_Country.exe
+C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\3. Cities by Continent and Country\obj\Debug\_3.Cities_by_Continent_and_Country.pdb
