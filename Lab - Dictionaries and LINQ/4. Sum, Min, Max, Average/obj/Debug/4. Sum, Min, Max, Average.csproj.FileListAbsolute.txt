@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\4. Sum, Min, Max, Average\bin\Debug\_4.Sum__Min__Max__Average.exe.config

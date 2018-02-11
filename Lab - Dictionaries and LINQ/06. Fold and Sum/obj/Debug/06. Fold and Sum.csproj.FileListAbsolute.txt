@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe.config

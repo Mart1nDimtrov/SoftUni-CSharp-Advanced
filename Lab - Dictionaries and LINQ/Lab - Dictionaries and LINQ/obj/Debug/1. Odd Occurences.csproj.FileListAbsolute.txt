@@ -4,3 +4,6 @@ C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\Lab - Dictionaries and LINQ\obj\Debug\1. Odd Occurences.csprojResolveAssemblyReference.cache
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\Lab - Dictionaries and LINQ\obj\Debug\Lab - Dictionaries and LINQ.exe
 C:\Users\martin\Desktop\The C# Player's Guide\04. Try It Out!\Lab - Dictionaries and LINQ\Lab - Dictionaries and LINQ\obj\Debug\Lab - Dictionaries and LINQ.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\Lab - Dictionaries and LINQ\bin\Debug\Lab - Dictionaries and LINQ.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\Lab - Dictionaries and LINQ\obj\Debug\Lab - Dictionaries and LINQ.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\Lab - Dictionaries and LINQ\obj\Debug\Lab - Dictionaries and LINQ.pdb

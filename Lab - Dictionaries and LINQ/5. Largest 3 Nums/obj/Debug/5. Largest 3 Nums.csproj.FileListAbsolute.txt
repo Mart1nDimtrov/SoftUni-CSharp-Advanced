@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\5. Largest 3 Nums\bin\Debug\_5.Largest_3_Nums.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\5. Largest 3 Nums\bin\Debug\_5.Largest_3_Nums.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\5. Largest 3 Nums\bin\Debug\_5.Largest_3_Nums.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\5. Largest 3 Nums\obj\Debug\5. Largest 3 Nums.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\5. Largest 3 Nums\obj\Debug\_5.Largest_3_Nums.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Lab - Dictionaries and LINQ\5. Largest 3 Nums\obj\Debug\_5.Largest_3_Nums.pdb
