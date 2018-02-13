@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Dictionaries and LINQ\Exercise - Dictionaries and LINQ\bin\Debug\Exercise - Dictionaries and LINQ.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Dictionaries and LINQ\Exercise - Dictionaries and LINQ\bin\Debug\Exercise - Dictionaries and LINQ.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Dictionaries and LINQ\Exercise - Dictionaries and LINQ\bin\Debug\Exercise - Dictionaries and LINQ.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Dictionaries and LINQ\Exercise - Dictionaries and LINQ\obj\Debug\1. Anonymous Cache.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Dictionaries and LINQ\Exercise - Dictionaries and LINQ\obj\Debug\Exercise - Dictionaries and LINQ.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Dictionaries and LINQ\Exercise - Dictionaries and LINQ\obj\Debug\Exercise - Dictionaries and LINQ.pdb

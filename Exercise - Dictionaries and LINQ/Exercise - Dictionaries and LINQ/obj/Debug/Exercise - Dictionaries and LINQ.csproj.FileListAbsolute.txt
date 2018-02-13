@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-Advanced\Exercise - Dictionaries and LINQ\Exercise - Dictionaries and LINQ\bin\Debug\Exercise - Dictionaries and LINQ.exe.config
